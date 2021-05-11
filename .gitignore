@@ -1,0 +1,12 @@
+.idea
+*.iml
+
+/.gradle
+/build
+/target
+/out
+
+settings.gradle
+
+/screenshot
+/src/main/generated/
